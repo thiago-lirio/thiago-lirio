@@ -3,9 +3,6 @@
 <div style="display: inline-block">
   <ul style="width: "80cm">
     <li style="width: "80cm">
-      🔭 Hoje trabalho como analista de engenharia.
-    </li>
-    <li style="width: "80cm">
       🌱 Estudando o tripé do desenvolvimento web.
     </li>
     <li style="width: "80cm">
